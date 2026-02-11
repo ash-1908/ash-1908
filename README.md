@@ -29,7 +29,7 @@ const anmol = {
   pronouns: "he" | "him",
   code: [Spring Boot, Java, React, JavaScript, SQL],
   tools: [Docker, Git, AzureDevOps, Jenkins, SonarQube],
- challenge: "Each day I try to build better than the last."
+  challenge: "Each day I try to build better than the last."
 }
 ```
 
